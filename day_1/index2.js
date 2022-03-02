@@ -24,3 +24,15 @@ for(var i=0; i<10; ++i){
     }
 }
 console.log(count)
+
+
+
+var array = [1,2,3,4];
+var len= array.length
+var sum = 0
+var avg = 0
+for(var i=0; i<len; ++i){
+    sum=sum+array[i];
+}
+avg = sum/len
+console.log(avg)
