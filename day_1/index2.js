@@ -27,7 +27,7 @@ console.log(count)
 
 
 
-var array = [1,2,3,4];
+var array = [5,5,5,5];
 var len= array.length
 var sum = 0
 var avg = 0
